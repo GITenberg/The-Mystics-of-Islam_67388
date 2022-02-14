@@ -1,0 +1,34 @@
+_repo: The-Mystics-of-Islam_67388
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nicholson, Reynold Alleyne
+    aliases:
+    - Nicholson, Reynold A.
+    - Nicholson, R. N. (Reynold N.)
+    - Nicholson, R. (Reynold Alleyne)
+    birthdate: 1868
+    deathdate: 1945
+    gutenberg_agent_id: '39176'
+    url: http://www.gutenberg.org/2009/agents/39176
+    wikipedia: https://en.wikipedia.org/wiki/Reynold_A._Nicholson
+description: ''
+gutenberg_issued: '2022-02-12'
+identifiers:
+  gutenberg: '67388'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924074296231/page/n5/mode/2up
+pgterms:marc905: 20201211034002nicholson
+pgterms:marc906: '1914'
+pgterms:marc907: GB
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United Kingdom :G. Bell & Sons Ltd.,1914.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Mystics of Islam
+url: http://www.gutenberg.org/ebooks/67388
